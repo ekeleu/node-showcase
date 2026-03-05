@@ -1,25 +1,19 @@
 # 🚀 Blockchain Warehouse: ekeleu
-![Updated](https://img.shields.io/badge/Updated-2026-03-05 10:02:11 GMT-blue)
-![Peers](https://img.shields.io/badge/Peers-26
-16
+![Updated](https://img.shields.io/badge/Updated-2026-03-05 10:37:01 GMT-blue)
+![Peers](https://img.shields.io/badge/Peers-28
+18
 10-orange)
 ![Privacy](https://img.shields.io/badge/Tor-Active-purple)
-![Temp](https://img.shields.io/badge/CPU-45.0%C2%B0C-red)
 
-**Status:** Syncing (Late 2016)  
-**NVMe Storage:** 1.3T/1.9T Used (33.9°C)
+**Public Dashboard:** [Visit Live Site](https://ekeleu.github.io/node-showcase/)
 
-### 🟠 Bitcoin Core
-- **Block Height:** 442027
-- **Sync:** 12.7022937475221400%
-- **Network:** Tor Active | 26
-16
+### 🟠 Bitcoin Status
+- **Height:** 460740
+- **Sync:** 15.205599283760500%
+- **Network:** Tor Active | 28
+18
 10 Peers
 
 ### 💻 Hardware Telemetry
-- **CPU Temp:** 45.0°C
-- **Fan Speed:** 1998 RPM
-- **Disk Health:** 33.9°C (Sabrent NVMe)
-
-### 🟦 Algorand
-- **Status:** Fully Synced
+- **CPU:** 47.0°C | **Fans:** 2007 RPM
+- **Storage:** 1.4T/1.9T (Sabrent 2TB NVMe)
