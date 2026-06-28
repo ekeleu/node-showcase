@@ -11,5 +11,5 @@
 - **Network:** Tor Inactive |  Peers
 
 ### 💻 Hardware Telemetry
-- **CPU:** 71.0°C | **Fans:** 3407 RPM
+- **CPU:** 77.0°C | **Fans:** 3407 RPM
 - **Storage:** 1.7T/1.9T (Sabrent 2TB NVMe)
