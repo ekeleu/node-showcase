@@ -1,5 +1,5 @@
 # 🚀 Blockchain Warehouse: ekeleu
-![Updated](https://img.shields.io/badge/Updated-2026-09-20 16:00:01 BST-blue)
+![Updated](https://img.shields.io/badge/Updated-2026-09-20 17:00:01 BST-blue)
 ![Peers](https://img.shields.io/badge/Peers--orange)
 ![Privacy](https://img.shields.io/badge/Tor-Inactive-purple)
 
@@ -11,5 +11,5 @@
 - **Network:** Tor Inactive |  Peers
 
 ### 💻 Hardware Telemetry
-- **CPU:** 61.0°C | **Fans:** 0 RPM
+- **CPU:** 60.0°C | **Fans:** 2016 RPM
 - **Storage:** 166G/251G (Sabrent 2TB NVMe)
